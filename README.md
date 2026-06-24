@@ -98,6 +98,19 @@ Tech Stack:
 - Database Optimization
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwani-riser&show_icons=true&theme=github_dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwani-riser&theme=github-dark)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-riser&layout=compact&theme=github_dark)
+
+---
 
 ## 🤝 Connect With Me
 
