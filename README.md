@@ -1,62 +1,55 @@
 <div align="center">
 
-# 🚀 Welcome to my Space!
+# 👋 Hi, I'm Ashwani Kumar
+### Backend Developer • Competitive Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&pause=1000&color=7B61FF&center=true&vCenter=true&width=800&lines=Ashwani+Kumar;Backend+Developer;Competitive+Programmer;Building+Scalable+Systems" />
+*I build scalable backend systems and love solving complex problems.*  
+*Passionate about clean code, efficient algorithms and building impactful products.*
 
-<p align="center">
-  <a href="https://github.com/Ashwani-riser">
-    <img src="https://img.shields.io/badge/Codeforces-1300+-7B61FF?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/bright_owls">
-    <img src="https://img.shields.io/badge/CodeChef-3★-5A4AD1?style=for-the-badge&logo=codechef" />
-  </a>
-</p>
+<br>
 
----
+<img src="https://img.shields.io/badge/Codeforces-1300+-blue?style=for-the-badge&logo=codeforces" alt="Codeforces">
+<img src="https://img.shields.io/badge/CodeChef-3★-orange?style=for-the-badge&logo=codechef" alt="CodeChef">
+<img src="https://img.shields.io/badge/B.Tech_IT-@_RGIPT-blueviolet?style=for-the-badge" alt="Education">
+<img src="https://img.shields.io/badge/India-Location-green?style=for-the-badge" alt="Location">
 
-## ⚡ Quick Snapshot
+<br><br>
+
 <table align="center">
-<tr>
-<td align="center" width="400">
+  <tr>
+    <th width="300px">💻 Tech Stack</th>
+    <th width="300px">🎯 Current Goal</th>
+    <th width="300px">🔗 Connect With Me</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,docker,git,github,vscode,postman" />
+    </td>
+    <td align="center">
+      <b>Crack SDE Internship</b><br>
+      <img src="https://progress-bar.dev/80/?title=Progress&width=200" />
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/ashwani-kumar-2b2110320">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <br>
 
-### 👨‍💻 About
-**Name:** Ashwani Kumar  
-**Role:** Backend Developer  
-**Institute:** RGIPT  
-**Status:** 🚀 Seeking SDE Internships  
+<a href="https://codeforces.com/profile/Riser_ashwani">
+<img src="https://img.shields.io/badge/Codeforces-444?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+<br>
 
-</td>
-<td align="center" width="400">
+<a href="https://www.codechef.com/users/bright_owls">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
 
-### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=cpp,javascript,nodejs,express,mongodb,docker,git,github,vscode,postman" />
-
-</td>
+  </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📈 Dev Metrics
+### 💬 Learn. Build. Solve. Repeat.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwani-riser&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=Ashwani-riser&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-riser&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashwani-riser&theme=tokyonight&row=1&column=5" width="45%" />
-</p>
-
----
-
-## 🎯 Current Mission
-```cpp
-while (!dream_job_secured) {
-    learn("System Design");
-    build("Scalable Architecture");
-    practice("Competitive Programming");
-}
-return "SUCCESS";
+</div>
