@@ -1,12 +1,14 @@
 <div align="center">
 
 # 👋 Hi, I'm Ashwani Kumar
-### Backend Developer • Competitive Programmer
 
-*I build scalable backend systems and love solving complex problems.*  
-*Passionate about clean code, efficient algorithms and building impactful products.*
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Backend+Developer;Competitive+Programmer" alt="Typing Animation" />
 
-<br>
+<!-- Animated Bio -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=I+build+scalable+backend+systems+and+love+solving+complex+problems.;Passionate+about+clean+code,+efficient+algorithms+and+building+impactful+products." alt="Bio Animation" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Codeforces-1300+-blue?style=for-the-badge&logo=codeforces" alt="Codeforces">
 <img src="https://img.shields.io/badge/CodeChef-3★-orange?style=for-the-badge&logo=codechef" alt="CodeChef">
@@ -15,37 +17,53 @@
 
 <br><br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th width="300px">💻 Tech Stack</th>
-    <th width="300px">🎯 Current Goal</th>
-    <th width="300px">🔗 Connect With Me</th>
+    <th width="33%">💻 Tech Stack</th>
+    <th width="33%">🚀 Current Focus</th>
+    <th width="33%">🔗 Connect With Me</th>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,docker,git,github,vscode,postman" />
     </td>
+
     <td align="center">
-      <b>Crack SDE Internship</b><br>
-      <img src="https://progress-bar.dev/80/?title=Progress&width=200" />
+      <b>🚀 Current Focus</b><br><br>
+
+      Backend Development ⚙️<br>
+      Competitive Programming 🧠<br>
+      System Design 📚<br>
+      Open Source 🌍
     </td>
+
     <td align="center">
-      <a href="https://linkedin.com/in/ashwani-kumar-2b2110320">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <br>
+
+<a href="https://linkedin.com/in/ashwani-kumar-2b2110320">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
 
 <a href="https://codeforces.com/profile/Riser_ashwani">
 <img src="https://img.shields.io/badge/Codeforces-444?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
-<br>
+
+<br><br>
 
 <a href="https://www.codechef.com/users/bright_owls">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
 
-  </td>
-</tr>
+<br><br>
+
+<a href="https://github.com/Ashwani-riser">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+    </td>
+  </tr>
 </table>
 
 <br>
