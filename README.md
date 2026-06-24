@@ -1,56 +1,43 @@
-<h1 align="center">🎮 PLAYER PROFILE</h1>
+<h1 align="center">Ashwani Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Competitive+Programmer;Codeforces+1300%2B;CodeChef+3%E2%98%85;Building+Scalable+Systems;Always+Learning+Always+Building" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwani-riser&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Ashwani+Kumar;Backend+Developer;Competitive+Programmer;Codeforces+1300%2B;CodeChef+3%E2%98%85;Building+Scalable+Systems" />
 </p>
 
 ---
 
-## 🎮 PLAYER CARD
+## 🚀 About Me
 
 ```yaml
 Name        : Ashwani Kumar
-Class       : Backend Developer
-Level       : B.Tech IT @ RGIPT
-Rank        : Codeforces 1300+
-Achievement : CodeChef 3★
+Role        : Backend Developer
+Institute   : RGIPT
+
+Codeforces  : 1300+
+CodeChef    : 3★
+
+Focus Areas :
+- Backend Development
+- Competitive Programming
+- System Design
 
 Mission     : Build Scalable Systems
 Status      : Learning | Building | Growing
 
-Current Quest:
-[████████░░] Crack SDE Internship
+Current Goal:
+→ Crack SDE Internship
 ```
 
 ---
 
-## ⚔️ ACHIEVEMENTS
-
-🏆 Codeforces Rating: 1300+
-
-⭐ CodeChef: 3-Star
-
-🧠 Strong Problem Solving Skills
-
-🚀 Backend Development Enthusiast
-
-💻 Building Real World Projects
-
----
-
-## 🚀 TECH STACK
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,javascript,nodejs,express,mongodb,docker,git,github,vscode,postman&perline=5" />
 </p>
-
 ---
 
-## 📚 CURRENTLY LEARNING
+## 📚 Currently Learning
 
 ```text
 ✓ Advanced Backend Development
@@ -62,18 +49,7 @@ Current Quest:
 
 ---
 
-## 🎯 INTERESTS
-
-- Backend Development
-- Competitive Programming
-- Open Source
-- System Design
-- Scalable Applications
-- Problem Solving
-
----
-
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashwani-riser&show_icons=true&theme=tokyonight" />
@@ -81,7 +57,7 @@ Current Quest:
 
 ---
 
-## 🔥 GITHUB STREAK
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashwani-riser&theme=tokyonight" />
@@ -89,7 +65,7 @@ Current Quest:
 
 ---
 
-## 💻 MOST USED LANGUAGES
+## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-riser&layout=compact&theme=tokyonight" />
@@ -97,7 +73,7 @@ Current Quest:
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ashwani-riser&theme=tokyonight&row=1&column=6" />
@@ -105,44 +81,27 @@ Current Quest:
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-```md
-Setup Pending 🚧
-```
-
-(Add after GitHub Action setup)
-
----
-
-## 🌐 CONNECT WITH ME
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ashwani-kumar-2b2110320">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/Ashwani-riser">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
-💼 LinkedIn  
-https://linkedin.com/in/ashwani-kumar-2b2110320
-
-💻 Codeforces  
-https://codeforces.com/profile/Riser_ashwani
-
-⭐ CodeChef  
-https://www.codechef.com/users/bright_owls
-
-📂 GitHub  
-https://github.com/Ashwani-riser
+- 💼 LinkedIn: https://linkedin.com/in/ashwani-kumar-2b2110320
+- 💻 Codeforces: https://codeforces.com/profile/Riser_ashwani
+- ⭐ CodeChef: https://www.codechef.com/users/bright_owls
+- 📂 GitHub: https://github.com/Ashwani-riser
 
 ---
 
 ```cpp
-while(!success){
+while (!success) {
     learn();
     build();
     practice();
@@ -151,6 +110,6 @@ while(!success){
 return success;
 ```
 
-⭐ If you like my projects, feel free to star the repositories.
+⭐ Thanks for visiting my profile!
 
 🚀 Always Learning • Always Building • Always Improving
