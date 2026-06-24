@@ -18,23 +18,12 @@
   <img src="https://skillicons.dev/icons?i=cpp,javascript,nodejs,express,mongodb,docker,git,github,vscode" />
 </p>
 
-## 🏆 Competitive Programming
-
-- Codeforces Rating: 1300+
-- CodeChef: 3⭐
-- Solving DSA and Competitive Programming Problems Daily
-- Strong Interest in Algorithms and Backend Development
-
----
-
 ## 🎯 Goals for 2026
 
-- Complete Online Judge Platform
+- Contribute to Open Source Projects
 - Reach Specialist on Codeforces
 - Achieve 4⭐ on CodeChef
 - Crack a Software Engineering Internship
-- Contribute to Open Source Projects
-
 ---
 
 ## 📚 Currently Learning
