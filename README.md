@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi 👋, I'm Ashwani Kumar
 
-<!--
-**Ashwani-riser/Ashwani-riser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at RGIPT
 
-Here are some ideas to get you started:
+💻 Backend Developer | Competitive Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Codeforces Rating: 1300+
+
+⭐ 3-Star CodeChef
+
+🚀 Currently Building an Online Judge Platform
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- C++
+- JavaScript
+
+### Backend Development
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### DevOps & Tools
+- Docker
+- Git
+- GitHub
+- Postman
+
+---
+
+## 📌 Current Projects
+
+### 🔥 Online Judge Platform
+
+Features:
+- User Authentication
+- Contest Management
+- Contest Registration
+- Judge Engine
+- Leaderboard
+- Submission System
+- Docker Sandbox Execution
+
+Tech Stack:
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+
+---
+
+### 🎥 YouTube Backend API
+
+Features:
+- JWT Authentication
+- Refresh Tokens
+- Cloudinary Integration
+- MongoDB Database
+- REST APIs
+
+Tech Stack:
+- Node.js
+- Express.js
+- MongoDB
+- Cloudinary
+
+---
+
+## 🏆 Competitive Programming
+
+- Codeforces Rating: 1300+
+- CodeChef: 3⭐
+- Solving DSA and Competitive Programming Problems Daily
+- Strong Interest in Algorithms and Backend Development
+
+---
+
+## 🎯 Goals for 2026
+
+- Complete Online Judge Platform
+- Reach Specialist on Codeforces
+- Achieve 4⭐ on CodeChef
+- Crack a Software Engineering Internship
+- Contribute to Open Source Projects
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Backend Development
+- System Design Fundamentals
+- Docker & DevOps
+- Database Optimization
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ashwani-kumar-2b2110320
+- 💻 Codeforces: https://codeforces.com/profile/Riser_ashwani
+- ⭐ CodeChef: https://www.codechef.com/users/bright_owls
+- 📂 GitHub: https://github.com/Ashwani-riser
+
+---
+
+⭐ If you like my projects, feel free to star the repositories.
+
+🚀 Always learning, always building.
