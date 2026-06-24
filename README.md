@@ -14,62 +14,9 @@
 
 ## 🚀 Tech Stack
 
-### Languages
-- C++
-- JavaScript
-
-### Backend Development
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### DevOps & Tools
-- Docker
-- Git
-- GitHub
-- Postman
-
----
-
-## 📌 Current Projects
-
-### 🔥 Online Judge Platform
-
-Features:
-- User Authentication
-- Contest Management
-- Contest Registration
-- Judge Engine
-- Leaderboard
-- Submission System
-- Docker Sandbox Execution
-
-Tech Stack:
-- Node.js
-- Express.js
-- MongoDB
-- Docker
-
----
-
-### 🎥 YouTube Backend API
-
-Features:
-- JWT Authentication
-- Refresh Tokens
-- Cloudinary Integration
-- MongoDB Database
-- REST APIs
-
-Tech Stack:
-- Node.js
-- Express.js
-- MongoDB
-- Cloudinary
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,nodejs,express,mongodb,docker,git,github,vscode" />
+</p>
 
 ## 🏆 Competitive Programming
 
